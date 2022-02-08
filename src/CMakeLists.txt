@@ -1,0 +1,2 @@
+add_subdirectory(sample_lib)
+add_subdirectory(sample_exe)
